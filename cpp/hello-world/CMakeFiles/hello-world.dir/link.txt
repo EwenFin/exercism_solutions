@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11   CMakeFiles/hello-world.dir/hello_world_test.cpp.o  -o hello-world -rdynamic /usr/local/lib/libboost_unit_test_framework.so /usr/local/lib/libboost_date_time.so /usr/local/lib/libboost_regex.so -Wl,-rpath,/usr/local/lib 

@@ -1,0 +1,10 @@
+{
+  "yacht_test.py::YachtTests::test_big_straight_as_little_straight": true, 
+  "yacht_test.py::YachtTests::test_four_in_order_but_not_a_little_straight": true, 
+  "yacht_test.py::YachtTests::test_full_house_three_small_two_big": true, 
+  "yacht_test.py::YachtTests::test_full_house_two_small_three_big": true, 
+  "yacht_test.py::YachtTests::test_little_straight": true, 
+  "yacht_test.py::YachtTests::test_little_straight_as_big_straight": true, 
+  "yacht_test.py::YachtTests::test_min_1_max_5_but_not_a_little_straight": true, 
+  "yacht_test.py::YachtTests::test_no_pairs_but_not_a_little_straight": true
+}

@@ -1,0 +1,5 @@
+{
+  "robot_simulator_test.py::RobotTests::test_simulate_prog1": true, 
+  "robot_simulator_test.py::RobotTests::test_simulate_prog2": true, 
+  "robot_simulator_test.py::RobotTests::test_simulate_prog3": true
+}

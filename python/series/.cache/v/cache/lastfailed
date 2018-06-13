@@ -1,0 +1,7 @@
+{
+  "series_test.py::SeriesTest::test_slices_can_include_duplicates": true, 
+  "series_test.py::SeriesTest::test_slices_of_one_from_one": true, 
+  "series_test.py::SeriesTest::test_slices_of_one_from_two": true, 
+  "series_test.py::SeriesTest::test_slices_of_two": true, 
+  "series_test.py::SeriesTest::test_slices_of_two_overlap": true
+}
